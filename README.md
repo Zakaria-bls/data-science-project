@@ -10,12 +10,12 @@ Le code est réparti en 4 fichiers progressifs. Vous pouvez visualiser les résu
 
 ### 1. `First try (small Data).ipynb`
 * **Contenu :** Introduction et prise en main.
-* **Données :** Wine Quality (Rouge/Blanc).
+* **Données :** Wine Quality (Rouge/Blanc) (data downlaoded).
 * **Code :** Configuration de l'environnement Spark et premier clustering simple.
 
 ### 2. `Two algorithms (small data) .ipynb`
 * **Contenu :** Comparaison technique.
-* **Données :** Wine Quality.
+* **Données :** Wine Quality (Rouge/Blanc) (data imported by link).
 * **Code :** Comparaison des performances entre **PySpark** et **Scikit-learn**. Analyse des métriques (Silhouette, Inertie, ARI) et visualisation PCA.
 
 ### 3. `Two algorithms (meduim data) .ipynb`
