@@ -1,6 +1,6 @@
-# 📊 Projet Big Data : Clustering K-Means avec PySpark
+# 📊 Projet Big Data : Clustering K-Means avec PySpark et scikit-learn
 
-Ce projet explore l'application de l'algorithme **K-Means** sur des jeux de données de différentes tailles (Small, Medium, Large) pour analyser la scalabilité et la performance de **PySpark** par rapport à des solutions classiques.
+Ce projet explore l'application de l'algorithme **K-Means** sur des jeux de données de différentes tailles (Small, Medium, Large) pour analyser la scalabilité et la performance de **PySpark** et **scikit-learn**.
 
 Les notebooks ont été développés et exécutés sur **Google Colab**.
 
